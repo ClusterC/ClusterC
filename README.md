@@ -7,7 +7,7 @@ Student
 Hello everyone, I'm a coding newbie who has just started learning the ropes and recently joined GitHub! 🚀
 
 * 🌍  I'm based in I'm based in Thailand
-* 🧠  I'm learning I'm learning python and c.
+* 🧠  I'm learning python and c.
 * ⚡  i like cookies
 
 <a href="https://www.x.com/Mainboard20" target="_blank" rel="noreferrer"><img
