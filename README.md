@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patiphan Foythong
 =========================================================================================================================================
 
-Student
+About me
 -------
 
 Hi there! I'm an Undergraduate AI Researcher and Computing student passionate about Deep Learning and intelligent systems. 🚀
@@ -21,9 +21,14 @@ Hi there! I'm an Undergraduate AI Researcher and Computing student passionate ab
 
 
 
-<a href="https://www.x.com/Mainboard20" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Mainboard20?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"
-/></a>
+<p align="left">
+  <a href="https://www.x.com/Mainboard20" target="_blank" rel="noreferrer"><img
+  src="https://img.shields.io/twitter/follow/Mainboard20?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"
+  /></a>
+  <a href="mailto:patiphanfoythong@gmail.com" ><img
+  src="https://img.shields.io/badge/Email-patiphanfoythong-ea4335?style=for-the-badge&color=ffffff&labelColor=1c1917&logo=gmail"
+  /></a>
+</p>
 
 ### Skills
 
