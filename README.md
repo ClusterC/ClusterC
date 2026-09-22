@@ -13,12 +13,13 @@ Hi there! I'm an Undergraduate AI Researcher and Computing student passionate ab
 
 ---
 
-### ⚠️ Friendly PSA
-I build AI systems, but please stop burning megawatts of compute just to churn out low-effort **AI Slop**. The polar bears would really appreciate having some icebergs left to stand on. 🐻‍❄️🧊  
-*(Just kidding... mostly. The server room is definitely sweating though 🙃)*
-
+### Friendly PSA
+* ⚠️ I build AI systems, but please stop burning megawatts of compute just to churn out low-effort **AI Slop**. The polar bears would really appreciate having some icebergs left to stand on. 🐻‍❄️🧊
+<sub><small>*(Just kidding... mostly. Keep prompting responsibly, though the server room is definitely sweating 🙃)*</small></sub>
 > 📄 **Actual research on why AI eats power:**  
 > *Luccioni et al. (2024)* – [*Power Hungry Processing: Watts Driving the Cost of AI Deployment?*](https://arxiv.org/abs/2311.16863) (ACM FAccT '24)
+
+
 
 <a href="https://www.x.com/Mainboard20" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Mainboard20?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"
