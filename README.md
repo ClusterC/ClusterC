@@ -1,4 +1,6 @@
-![](https://cdn.discordapp.com/attachments/1529747015502790716/1559148011160993852/Artboard_1.jpg?ex=6ace053d&is=6accb3bd&hm=cba461ec8f603b2149bcd98e15302e7a599e9290828b4f493f6325b4a1c44e73&)
+
+![](https://media.discordapp.net/attachments/1529747015502790716/1559150456821784596/5dd09ca5e7581bd497a70418c40f5a62bf18caa8.gif?ex=6ace0784&is=6accb604&hm=8ddcee15cd70e31fb92db303ff14bb0e9826848d639c036d5ee2b9183b9a56a6&=)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patiphan Foythong
 =========================================================================================================================================
 
