@@ -1,4 +1,3 @@
-https://cdn.discordapp.com/attachments/1529747015502790716/1559148011160993852/Artboard_1.jpg?ex=6ace053d&is=6accb3bd&hm=cba461ec8f603b2149bcd98e15302e7a599e9290828b4f493f6325b4a1c44e73&
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patiphan Foythong
 =========================================================================================================================================
 
